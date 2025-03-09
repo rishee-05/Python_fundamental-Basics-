@@ -1,4 +1,4 @@
-# Python Fundamentals - Basics 🐍  
+# Python Fundamentals - Basics & Exercise 🐍  
 
 This repository contains essential **Python programming concepts** to help you build a strong foundation. It covers key topics such as:  
 ✅ Variables & Data Types  
