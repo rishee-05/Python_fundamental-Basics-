@@ -15,10 +15,7 @@ Browse through the directories and files to explore various topics. Each section
 
 Contributions are welcome! If you'd like to add examples or improve documentation, feel free to submit a **pull request**. Please ensure that your contributions align with the repository’s structure.  
 
-## 📜 License  
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
+ 
 ## 📬 Contact  
 
 Have questions or suggestions? Reach out via **[GitHub](https://github.com/rishee-05)**.  
